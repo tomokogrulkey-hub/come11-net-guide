@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tomokogrulkey-hub.github.io/come11-net-guide/sitemap.xml
